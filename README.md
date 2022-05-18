@@ -8,3 +8,4 @@ Soccer data statistical analysis , 다양한 축구 데이터에 대한 통계�
 5.  <a href = "https://ddggblog.tistory.com/147">EPL 03/04 ~ 20/21 시즌 사이 가능한 등수 변화 </a>
 6.  <a href = "https://ddggblog.tistory.com/156">EPL 20/21 K-Means Clustering을 통한 선수 스카우팅 </a> - <a href = "https://github.com/Gusehd/FootBall_K_Means_Clustering">github</a>
 7.  <a href = "https://ddggblog.tistory.com/174">EPL 20/21 경기 배당률과 발생한 점수 관계 </a>
+8.  <a href = "https://ddggblog.tistory.com/236">유럽 5대 리그의 일등 , 꼴등팀에게 전 라운드 베팅 </a>
